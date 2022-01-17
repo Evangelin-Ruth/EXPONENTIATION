@@ -15,9 +15,12 @@ To write a program to find the exponentiation of a number.
 ```
 /*
 Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
+Developed by: Evangelin.S
+RegisterNumber: 21500561 
 */
+a=int(input())
+b=int(input())
+print("Exponentiation of a given number:",a**b)
 ```
 
 ## Output:
